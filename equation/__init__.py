@@ -1,0 +1,1 @@
+from equation.polynomial import generate_polynomial_equation
