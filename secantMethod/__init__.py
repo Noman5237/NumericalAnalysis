@@ -1,0 +1,1 @@
+from secantMethod import SecantMethod
